@@ -50,7 +50,7 @@ python name_the_certificate.py
 #### Procedure:
 After executing the script, an image will appear.\
 Select the area where, you want to add the *name* using the mouse.\
-Press the 'q' button in the keyaboard.\
+Press the 'q' button in the keyboard.\
 All certificates will be created in the certificate folder.
 
 
